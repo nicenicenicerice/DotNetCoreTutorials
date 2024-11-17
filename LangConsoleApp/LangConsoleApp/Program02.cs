@@ -14,10 +14,10 @@ namespace LangConsoleApp
             Console.WriteLine("https://www.tutorialsteacher.com/csharp/namespace");
             Console.WriteLine("----------------------------------------");
 
-            School.Teacher teacher = new School.Teacher(101, "Sam");
+            Schools.Teacher teacher = new Schools.Teacher(101, "Sam");
             Console.WriteLine("Description: " + teacher.GetDescription("I am tall."));
 
-            School.Device.BlackBoard blackBoard = new School.Device.BlackBoard();
+            Schools.Devices.BlackBoard blackBoard = new Schools.Devices.BlackBoard();
             Console.WriteLine("Description: " + blackBoard.GetDescription());
         }
     }

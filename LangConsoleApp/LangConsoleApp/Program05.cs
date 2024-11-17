@@ -50,6 +50,18 @@ namespace LangConsoleApp
 
             string s07 = $"{{Bracket}}";
             Console.WriteLine(s07);
+            Console.WriteLine("----------------------------------------");
+
+            string s08 = "str_08";
+            Console.WriteLine($"before UpdateInputString fun: {s08}");
+            UpdateInputString(s08);
+            Console.WriteLine($"after  UpdateInputString fun: {s08}");
+        }
+
+        private static void UpdateInputString(string inputStr)
+        {
+            inputStr = inputStr + "_updated";
+            Console.WriteLine($"in the UpdateInputString fun: {inputStr}");
         }
     }
 }
