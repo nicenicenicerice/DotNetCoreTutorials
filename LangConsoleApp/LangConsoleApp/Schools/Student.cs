@@ -29,7 +29,7 @@ namespace LangConsoleApp.Schools
 
         public string GetDescription(string memo)
         {
-            return $"Student: ID = {Id}；Name = {Name}；Memo = {memo}";
+            return $"Student: ID = {Id}；Name = {Name}；SeatNo = {SeatNo}；Memo = {memo}";
         }
     }
 }

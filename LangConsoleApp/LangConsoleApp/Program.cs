@@ -87,10 +87,46 @@ namespace LangConsoleApp
             Console.WriteLine("Program19:");
             Program19.Run();
             Console.WriteLine("");
-            */
 
             Console.WriteLine("Program20:");
             Program20.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program21:");
+            Program21.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program22:");
+            Program22.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program23:");
+            Program23.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program24:");
+            Program24.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program25:");
+            Program25.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program26:");
+            Program26.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program27:");
+            Program27.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program28:");
+            Program28.Run();
+            Console.WriteLine("");
+            */
+
+            Console.WriteLine("Program29:");
+            Program29.Run();
             Console.WriteLine("");
 
             Console.WriteLine("END:------------------------------------");
