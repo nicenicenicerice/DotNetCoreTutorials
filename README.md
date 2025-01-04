@@ -1,3 +1,3 @@
 # DotNetCoreTutorials
-Dot Net Core Tutorials
+Dot Net Core Tutorials.
 Hello! I am Rice.
