@@ -123,10 +123,18 @@ namespace LangConsoleApp
             Console.WriteLine("Program28:");
             Program28.Run();
             Console.WriteLine("");
-            */
 
             Console.WriteLine("Program29:");
             Program29.Run();
+            Console.WriteLine("");
+
+            Console.WriteLine("Program30:");
+            Program30.Run();
+            Console.WriteLine("");
+            */
+
+            Console.WriteLine("Program31:");
+            Program31.Run();
             Console.WriteLine("");
 
             Console.WriteLine("END:------------------------------------");
