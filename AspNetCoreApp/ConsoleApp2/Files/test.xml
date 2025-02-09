@@ -1,0 +1,17 @@
+﻿<config>
+  <myapp>
+    <A>AVal</A>
+    <B>
+      <B1>B1Val</B1>
+    </B>
+    <C c1="C1Val" c2="C2Val">CVal</C>
+    <D d1="D1Val" d2="D2Val">
+      <Item>
+        <D3>D31Val</D3>
+      </Item>
+      <Item>
+        <D3>D32Val</D3>
+      </Item>
+    </D>
+  </myapp>
+</config>
